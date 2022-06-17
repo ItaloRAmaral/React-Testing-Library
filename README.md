@@ -8,19 +8,6 @@ O desafio deste projeto era de desenvolver uma carteira de controle de gastos co
  - Visualizar uma tabelas com seus gastos;
  - Visualizar o total de gastos convertidos para uma moeda de escolha;
 
-## ⚙️ Como Executar
-Clone o repositório em uma pasta de preferência
-
-```
-git clone git@github.com:ItaloRAmaral/Star-Wars-Planet-Search.git
-```
-
-Entre na pasta que você acabou de clonar, e instale as dependencias
-```
-npm install
-```
-Os Códigos de teste da aplicação estão localizados na pasta src -> tests
-
 ## :memo: Metodologia Utilizada
 
 * Kanban
@@ -40,6 +27,18 @@ Os Códigos de teste da aplicação estão localizados na pasta src -> tests
 * REACT TESTING LIBRARY
 * JEST
 
+## ⚙️ Como Executar
+Clone o repositório em uma pasta de preferência
+
+```
+git clone git@github.com:ItaloRAmaral/Star-Wars-Planet-Search.git
+```
+
+Entre na pasta que você acabou de clonar, e instale as dependencias
+```
+npm install
+```
+Os Códigos de teste da aplicação estão localizados na pasta src -> tests
 
 ##
 
