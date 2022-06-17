@@ -2,11 +2,7 @@
 ###### by _[Italo Amaral](https://www.linkedin.com/in/italo-rockenbach-594082132/)_
 
 ## :page_with_curl: Sobre
-O desafio deste projeto era de desenvolver uma carteira de controle de gastos com conversor de moedas, e ao utilizar essa aplicação um usuário deverá ser capaz de:
-
- - Adicionar, remover e editar um gasto;
- - Visualizar uma tabelas com seus gastos;
- - Visualizar o total de gastos convertidos para uma moeda de escolha;
+O desafio deste projeto era de desenvolver testes em uma aplicação em react já pronta, utilizando JEST e a biblioteca React Testing Library (RTL).
 
 ## :memo: Metodologia Utilizada
 
